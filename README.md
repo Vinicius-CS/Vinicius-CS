@@ -11,12 +11,13 @@
   <img alt="Vinicius-CSS" src="https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css3&logoColor=67D37E">
   <img alt="Vinicius-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=67D37E">
   <img alt="Vinicius-Bootstrap" src="https://img.shields.io/badge/Bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=67D37E">
+  <img alt="Vinicius-React" src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=67D37E">
   <img alt="Vinicius-Vue" src="https://img.shields.io/badge/Vue.js-323330?style=for-the-badge&logo=vue.js&logoColor=67D37E">
+  <img alt="Vinicius-Vuetify" src="https://img.shields.io/badge/Vuetify-323330?style=for-the-badge&logo=vuetify&logoColor=67D37E">
   <img alt="Vinicius-Laravel" src="https://img.shields.io/badge/Laravel-323330?style=for-the-badge&logo=laravel&logoColor=67D37E">
+  <img alt="Vinicius-Node" src="https://img.shields.io/badge/Node,js-323330?style=for-the-badge&logo=node.js&logoColor=67D37E">
   <img alt="Vinicius-MySQL" src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=67D37E">
   <img alt="Vinicius-Csharp" src="https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=67D37E">
-  <img alt="Vinicius-React" src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=67D37E">
-  <img alt="Vinicius-Java" src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=67D37E">
 </div>
   
   ##
