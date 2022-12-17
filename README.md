@@ -19,6 +19,7 @@
   <img alt="Vinicius-Python" src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=67D37E">
   <img alt="Vinicius-MySQL" src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=67D37E">
   <img alt="Vinicius-Csharp" src="https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=67D37E">
+  <img alt="Vinicius-C++" src="https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=c%2B%2B&logoColor=67D37E">
 </div>
   
   ##
