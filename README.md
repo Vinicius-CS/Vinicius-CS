@@ -15,6 +15,7 @@
   <img alt="Vinicius-Vue" src="https://img.shields.io/badge/Vue.js-323330?style=for-the-badge&logo=vue.js&logoColor=67D37E">
   <img alt="Vinicius-Vuetify" src="https://img.shields.io/badge/Vuetify-323330?style=for-the-badge&logo=vuetify&logoColor=67D37E">
   <img alt="Vinicius-Laravel" src="https://img.shields.io/badge/Laravel-323330?style=for-the-badge&logo=laravel&logoColor=67D37E">
+ <img alt="Vinicius-CakePHP" src="https://img.shields.io/badge/CakePHP-323330?style=for-the-badge&logo=cakephp&logoColor=67D37E">
   <img alt="Vinicius-Node" src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=67D37E">
   <img alt="Vinicius-Python" src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=67D37E">
   <img alt="Vinicius-MySQL" src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=67D37E">
