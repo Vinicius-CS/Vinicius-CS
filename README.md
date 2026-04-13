@@ -1,7 +1,7 @@
 ## 
  <div align="center">
   <a href="https://github.com/Vinicius-CS">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Vinicius-CS&theme=dark&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&dates=EBEBEB&background=7F7F7F&border=EBEBEB&stroke=EBEBEB&ring=EBEBEB&fire=EBEBEB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EBEBEB&sideLabels=EBEBEB&excludeDaysLabel=EBEBEB"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Vinicius-CS&theme=dark&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&dates=4A985B&background=FFFFFF00&border=67D37E&stroke=67D37E&ring=67D37E&fire=67D37E&currStreakNum=67D37E&sideNums=67D37E&currStreakLabel=67D37E&sideLabels=67D37E&excludeDaysLabel=4A985B"/>
   <!--img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-CS&theme=dark"/-->
 </div>
 
